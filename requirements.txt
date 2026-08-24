@@ -1,0 +1,10 @@
+Flask
+gunicorn
+numpy
+pandas
+scikit-learn
+beautifulsoup4
+requests
+python-whois
+googlesearch-python
+python-dateutil
